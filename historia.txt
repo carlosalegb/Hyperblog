@@ -2,6 +2,6 @@ Este es un documento de prueba para git.
 
 Hola hola valovers  MODIFICADO para el segundo commit
 
-Hoy hablaremos de su vida MODIFICACIÒN 6 
+Hoy hablaremos de su vida MODIFICACIÒN 6 y obra maestra MODIFICACION 7
 
 
