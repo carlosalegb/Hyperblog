@@ -1,3 +1,5 @@
 Este es un documento de prueba para git. 
 
+Carlos es un contribuyente de este blog. 
+
 Hola hola valovers Mañana hablaremos de su vida laboral
