@@ -7,4 +7,5 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * All Git commands * Workflow on Github 
 * True love for good practices 
 
+-------------------------------
 Course link: https://platzi.com/cursos/git-github/ 
